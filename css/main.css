@@ -1,0 +1,60 @@
+/*CSS Reset*/
+*{
+    margin: 0px;
+    padding: 0px;
+
+}
+/*Header styling*/
+.food-planet{
+
+    background-color:#FE7816;
+    color:rgb(250, 243, 243);
+    font-size: 10px;
+    width: 111px;
+height: 35px;
+border-radius: 11px;
+display:flex; 
+justify-content: center;
+align-items:center ;
+    
+}
+.cohete{
+    width: 30px;
+height: auto;
+
+
+}
+.container{
+display:flex;
+align-items: center;
+}
+h1{
+
+    width: 40%;
+}
+.container2{
+    display:flex;
+    align-items:flex-start ;
+    
+}
+.teasing-face{
+    padding-top: 10px;
+}
+.container3{
+    width: 398.69px;
+height: 109.56px;
+background: #FE7816;
+border-radius: 19px;
+display: flex;
+align-items:center ;
+justify-content:space-around ;
+
+}
+.container4 p{
+    color:antiquewhite;
+}
+.container4{
+    display:flex;
+    flex-direction: column;
+    align-items: flex-end;
+}
